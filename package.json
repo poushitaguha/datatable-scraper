@@ -13,6 +13,7 @@
   "author": "Poushita Guha",
   "license": "ISC",
   "dependencies": {
+    "csv-writer": "^1.5.0",
     "nightmare": "^3.0.2"
   }
 }
