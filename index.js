@@ -61,5 +61,3 @@ const createCsvWriter = require("csv-writer").createObjectCsvWriter;
             console.error('Search failed:', error);
         });
 })();
-
-
